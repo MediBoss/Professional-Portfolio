@@ -1,5 +1,5 @@
 ## Professional Portfolio of Medi W. Assumani
-#### Education : Make School's Product College
+#### Education : Saint Peter's University and Make School's Product College
 #### Concentration : Software Engineering, iOS Development, Machine Learning, API Backend Design
 #### Languages : Swift, Python, Java
 
