@@ -1,6 +1,6 @@
 ## Professional Portfolio of Medi W. Assumani
-#### Make School's Product College
-#### Aspiring Software Engineer
+#### Education : Make School's Product College
+#### Concentration : Software Engineering, iOS Development, Machine Learning, API Backend Design
 #### Swift, Python, Java
 
 This repository contains a list of my main projects to showcase my software engineering skills.
