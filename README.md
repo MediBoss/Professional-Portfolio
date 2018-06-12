@@ -1,4 +1,8 @@
-# Professional-Portfolio
+# Professional Portfolio
+# Medi W. Assumani
+# Make School's Product College
+# Software Engineer
+# Swift, Python, Java
 
 This repository contains a list of my main projects to showcase my software engineering skills.
 
