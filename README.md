@@ -1,6 +1,4 @@
-## Professional Portfolio of Medi W. Assumani
-#### Education : Saint Peter's University(2017 - 2018) and Make School's Product College(2018 - 2020)
-#### Concentration : iOS Development, Machine Learning, API Backend Design
+# Professional Portfolio of Medi W. Assumani
 
 This repository contains a list of my main projects to showcase my software engineering skills.
 
