@@ -1,6 +1,6 @@
 # Project Portfolio
 
-This repository contains a list of my main projects to showcase my software engineering skills.
+This repository contains a list of my main projects to showcase my software engineering skills. There are some products that  I am working on that haven't been added. Stay tuned! 
 
 ## 1. <a href = "https://github.com/MediBoss/TrackHub" >TrackHub </a> 
 
