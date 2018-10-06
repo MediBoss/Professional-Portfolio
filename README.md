@@ -7,7 +7,11 @@ This repository contains a list of my main projects to showcase my software engi
 ### Overview
 TrackHub is an inventoy - based application that provides the client with key informations of their products based on the given inputs. Instead of writting a list of all of the business' products on a notebook and do the calculations physically, TrackHub does all those tasks for you!
 
-### Technology : Swift 4.0, Xcode 10, CoreData
+### Technology : 
+
+* Swift 4.0
+* Xcode 10
+* CoreData
 
 ## 2. <a href = "https://github.com/MediBoss/SIBS" >SIBS</a> 
 
