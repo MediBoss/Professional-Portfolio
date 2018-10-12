@@ -4,7 +4,7 @@
 This repository contains a list of my main projects to showcase my software engineering skills. There are some products that  I am currenlty working on that haven't been added. Stay tuned! 
 
 ## ToDo
-- [ ] Add Link to Live websites.
+- [ ] Add Links to Live websites.
 - [ ] Add Links to AppStore.
 - [ ] Migrate more projects.
 
