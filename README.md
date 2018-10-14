@@ -19,6 +19,10 @@ TrackHub is an inventoy - based application that provides the client with key in
 * Xcode 10
 * CoreData
 
+### Engineer(s) :
+
+* <i>Medi Assumani : Sole Engineer</i>
+
 ## 2. <a href = "https://github.com/MediBoss/SIBS" >SIBS</a> 
 
 ### Overview
@@ -27,6 +31,10 @@ Super Intelligent Book Summarizer, or SIBS, is a web application (or terminal/co
 ### Technology : 
 
 * Python
+
+### Engineer(s) :
+
+* <i>Medi Assumani : Sole Engineer</i>
 
 ## 3. <a href = "https://github.com/MediBoss/SDA" >SDA</a> 
 
@@ -37,4 +45,8 @@ Simple, Lightweight, and easy-to-use iOS Dictioanry app that is powered by the W
 * Swift 4.2 
 * Xcode
 * WORDSAPI
+
+### Engineer(s) :
+
+* <i>Medi Assumani : Sole Engineer</i>
 
