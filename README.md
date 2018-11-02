@@ -55,3 +55,5 @@ Simple, Lightweight, and easy-to-use iOS Dictioanry app that is powered by the W
 
 ## 5. SPD 2.1 Project
 
+## 6. Charitable
+
