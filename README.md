@@ -51,9 +51,61 @@ Simple, Lightweight, and easy-to-use iOS Dictioanry app that is powered by the W
 * <i>Medi Assumani : Sole Engineer</i>
 
 
-## 4. RemindMe
+## 4. <a href = "https://github.com/yveslym/remindMe" >RemindMe</a> 
 
-## 5. Lofti
+### Overview
 
-## 6. Charitable
+Simple, Lightweight, and easy-to-use iOS location-based reminder app that uses apple's geofencing and CoreLocation Api to send the user local notifications of reminders based on their locations.
 
+### Technology : 
+* Swift 4.2 
+* Xcode
+* FSB SDK
+* Google SDK
+* Cocoa Pods
+
+### Engineer(s) :
+
+* <i>Medi Assumani : Lead Engineer</i>
+* <i>Yves Songolo : iOS Engineer</i>
+
+
+## 5. <a href = "https://github.com/MediBoss/Lofti" >Lofti</a> 
+
+### Overview
+
+TBD
+
+
+### Technology : 
+
+* Client : Swift
+* Backend : Node.js, Express.js
+* Database : MongoDB
+* Testing : Mocha & Chai
+
+### Engineer(s) :
+
+* <i>Medi Assumani : iOS and Backend Engineer</i>
+* <i>Brisaida Trujillio : UI/UX Engineer</i>
+
+
+
+## 6. <a href = "https://github.com/MediBoss/Charitable" >Charitable</a> 
+
+### Overview
+
+Powered by the News RESTFul API, Charitable is an online platform for Humanitarians, charities, and citizens to find a source of events throughout the world that needs donations.
+
+
+### Technology : 
+
+* Front End : Javascript, CSS, & Handlebars
+* Backend : Node.js, Express.js
+* Database : MongoDB
+* Testing : Mocha & Chai
+* External API : <a href = "https://newsapi.org/" >News API</a> 
+
+### Engineer(s) :
+
+* <i>Medi Assumani : Full Stack Developer</i>
