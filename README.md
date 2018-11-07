@@ -1,7 +1,7 @@
 # Project Portfolio
 
 ## Overview
-This repository contains a list of my main projects to showcase my software engineering skills. There are some products that  I am currenlty working on that haven't been added. Stay tuned! 
+This repository contains a list of projects to showcase my software engineering skills. There are some products that  I am currenlty working on that haven't been added. Stay tuned! 
 
 ## ToDo
 - [ ] Add Links to Live websites.
