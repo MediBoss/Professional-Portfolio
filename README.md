@@ -1,14 +1,20 @@
 # Project Portfolio
 
 ## Overview
-This repository contains a list of projects to showcase my software engineering skills. There are some products that  I am currenlty working on that haven't been added. Stay tuned! 
+This repository contains a list of projects to showcase my software engineering skills.
+
+## Legend 
+
+* ✅ : Shipped
+* 🕑 : Working on
+* 🚩 : Paused 
 
 ## ToDo
 - [ ] Add Links to Live websites.
 - [ ] Add Links to AppStore.
 - [ ] Migrate more projects.
 
-## 1. <a href = "https://github.com/MediBoss/TrackHub" >TrackHub </a> 
+## 1. <a href = "https://github.com/MediBoss/TrackHub" >✅TrackHub</a> 
 
 ### Overview
 TrackHub is an inventoy - based application that provides the client with key informations of their products based on the given inputs. Instead of writting a list of all of the business' products on a notebook and do the calculations physically, TrackHub does all those tasks for you!
@@ -23,7 +29,7 @@ TrackHub is an inventoy - based application that provides the client with key in
 
 * <i>Medi Assumani : Sole Engineer</i>
 
-## 2. <a href = "https://github.com/MediBoss/SIBS" >SIBS</a> 
+## 2. <a href = "https://github.com/MediBoss/SIBS" >🚩SIBS</a> 
 
 ### Overview
 Super Intelligent Book Summarizer, or SIBS, is a web application (or terminal/command-line application)that concisely and accuratly summarizes the user's book or article at any given length.I am currenlty building it to run on the Terminal with local files but then will build it as a web app with html,css,and Flask for the backend.
@@ -36,7 +42,7 @@ Super Intelligent Book Summarizer, or SIBS, is a web application (or terminal/co
 
 * <i>Medi Assumani : Sole Engineer</i>
 
-## 3. <a href = "https://github.com/MediBoss/SDA" >SDA</a> 
+## 3. <a href = "https://github.com/MediBoss/SDA" >🚩SDA</a> 
 
 ### Overview
 Simple, Lightweight, and easy-to-use iOS Dictioanry app that is powered by the WORDSAPI to fetch nouns, verbs, pronouns, adjectives and retriving their definitions and category.
@@ -51,7 +57,7 @@ Simple, Lightweight, and easy-to-use iOS Dictioanry app that is powered by the W
 * <i>Medi Assumani : Sole Engineer</i>
 
 
-## 4. <a href = "https://github.com/yveslym/remindMe" >RemindMe</a> 
+## 4. <a href = "https://github.com/yveslym/remindMe" >🕑RemindMe</a> 
 
 ### Overview
 
@@ -70,7 +76,7 @@ Simple, Lightweight, and easy-to-use iOS location-based reminder app that uses a
 * <i>Yves Songolo : iOS Engineer</i>
 
 
-## 5. <a href = "https://github.com/MediBoss/Lofti" >Lofti</a> 
+## 5. <a href = "https://github.com/MediBoss/Lofti" >🕑Lofti</a> 
 
 ### Overview
 
@@ -91,7 +97,7 @@ TBD
 
 
 
-## 6. <a href = "https://github.com/MediBoss/Charitable" >Charitable</a> 
+## 6. <a href = "https://github.com/MediBoss/Charitable" >✅Charitable</a> 
 
 ### Overview
 
