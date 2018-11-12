@@ -42,20 +42,6 @@ Super Intelligent Book Summarizer, or SIBS, is a web application (or terminal/co
 
 * <i>Medi Assumani : Sole Engineer</i>
 
-## 3. <a href = "https://github.com/MediBoss/SDA" >🚩SDA</a> 
-
-### Overview
-Simple, Lightweight, and easy-to-use iOS Dictioanry app that is powered by the WORDSAPI to fetch nouns, verbs, pronouns, adjectives and retriving their definitions and category.
-
-### Technology : 
-* Swift 4.2 
-* Xcode
-* WORDSAPI
-
-### Engineer(s) :
-
-* <i>Medi Assumani : Sole Engineer</i>
-
 
 ## 4. <a href = "https://github.com/yveslym/remindMe" >🕑RemindMe</a> 
 
