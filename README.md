@@ -43,7 +43,7 @@ Super Intelligent Book Summarizer, or SIBS, is a web application (or terminal/co
 * <i>Medi Assumani : Sole Engineer</i>
 
 
-## 4. <a href = "https://github.com/yveslym/remindMe" >🕑RemindMe</a> 
+## 3. <a href = "https://github.com/yveslym/remindMe" >🕑RemindMe</a> 
 
 ### Overview
 
@@ -62,7 +62,7 @@ Simple, Lightweight, and easy-to-use iOS location-based reminder app that uses a
 * <i>Yves Songolo : iOS Engineer</i>
 
 
-## 5. <a href = "https://github.com/MediBoss/Lofti" >🕑Lofti</a> 
+## 4. <a href = "https://github.com/MediBoss/Lofti" >🕑Lofti</a> 
 
 ### Overview
 
@@ -83,7 +83,7 @@ TBD
 
 
 
-## 6. <a href = "https://github.com/MediBoss/Charitable" >✅Charitable</a> 
+## 5. <a href = "https://github.com/MediBoss/Charitable" >✅Charitable</a> 
 
 ### Overview
 
