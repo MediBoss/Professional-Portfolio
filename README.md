@@ -72,13 +72,13 @@ TBD
 ### Technology : 
 
 * Client : Swift
-* Backend : Node.js, Express.js
-* Database : MongoDB
-* Testing : Mocha & Chai
+* Backend : Node.js, Express.js, Yelp Fusion API
+* Database : MongoDB, FireBase
+* Testing : Mocha, Chai, Swift Unit Test
 
 ### Engineer(s) :
 
-* <i>Medi Assumani : iOS and Backend Engineer</i>
+* <i>Medi Assumani : Lead Engineer</i>
 * <i>Brisaida Trujillio : UI/UX Engineer</i>
 
 
