@@ -78,7 +78,7 @@ TBD
 
 ### Engineer(s) :
 
-* <i>Medi Assumani : Lead Engineer</i>
+* <i>Medi Assumani : iOS Engineer</i>
 
 
 ## 5. <a href = "https://github.com/MediBoss/Charitable" >✅Charitable</a> 
