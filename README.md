@@ -79,8 +79,6 @@ TBD
 ### Engineer(s) :
 
 * <i>Medi Assumani : Lead Engineer</i>
-* <i>Brisaida Trujillio : UI/UX Engineer</i>
-
 
 
 ## 5. <a href = "https://github.com/MediBoss/Charitable" >✅Charitable</a> 
