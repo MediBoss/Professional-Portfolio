@@ -66,19 +66,19 @@ Simple, Lightweight, and easy-to-use iOS location-based reminder app that uses a
 
 ### Overview
 
-TBD
 
+Lofti is an ios application that can seamlessly and smartly find study and working spaces nearby that conforms to the user personal working and study preferences.
 
 ### Technology : 
 
-* Client : Swift
-* Backend : Node.js, Express.js, Yelp Fusion API
-* Database : MongoDB, FireBase
-* Testing : Mocha, Chai, Swift Unit Test
+* Swift
+* Yelp Fusion API
+* FireBase
+* Apple's CoreLocation
 
 ### Engineer(s) :
 
-* <i>Medi Assumani : iOS Engineer</i>
+* <i>Medi Assumani : Sole iOS Developer</i>
 
 
 ## 5. <a href = "https://github.com/MediBoss/Charitable" >✅Charitable</a> 
