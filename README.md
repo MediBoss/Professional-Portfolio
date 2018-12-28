@@ -67,7 +67,7 @@ Simple, Lightweight, and easy-to-use iOS location-based reminder app that uses a
 ### Overview
 
 
-Lofti is an ios application that can seamlessly and smartly find study and working spaces nearby that conforms to the user personal working and study preferences.
+Lofti is an ios application that can seamlessly find study and working spaces nearby based on the user's preferences.
 
 ### Technology : 
 
