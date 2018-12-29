@@ -40,7 +40,7 @@ Simple, Lightweight, and easy-to-use iOS location-based reminder app that uses a
 
 Lofti is an ios application that can seamlessly find study and working spaces nearby based on the user's preferences. It is carefully developed and targeted for college students, high schools students, professional workers, and individual who like to work or study out of their office/home.
 
-* Link to Repo : <a href = "https://github.com/MediBoss/Lofti" >Remindme</a> 
+* Link to Repo : <a href = "https://github.com/MediBoss/Lofti" >Lofti</a> 
 * Link to Live Product : 
 
 
