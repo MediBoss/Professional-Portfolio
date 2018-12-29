@@ -10,92 +10,55 @@ This repository contains a list of projects to showcase my software engineering 
 * 🚩 : Paused 
 
 ## ToDo
-- [ ] Add Links to Live websites.
+- [x] Add Links to Live websites.
 - [ ] Add Links to AppStore.
-- [ ] Migrate more projects.
+- [x] Migrate more projects.
 
-## 1. <a href = "https://github.com/MediBoss/TrackHub" >✅TrackHub</a> 
 
-### Overview
-TrackHub is an inventoy - based application that provides the client with key informations of their products based on the given inputs. Instead of writting a list of all of the business' products on a notebook and do the calculations physically, TrackHub does all those tasks for you!
-
-### Technology : 
-
-* Swift 4.0
-* Xcode 10
-* CoreData
-
-### Engineer(s) :
-
-* <i>Medi Assumani : Sole Engineer</i>
-
-## 2. <a href = "https://github.com/MediBoss/SIBS" >🚩SIBS</a> 
+## 1.🚩SIBS 
 
 ### Overview
 Super Intelligent Book Summarizer, or SIBS, is a web application (or terminal/command-line application)that concisely and accuratly summarizes the user's book or article at any given length.I am currenlty building it to run on the Terminal with local files but then will build it as a web app with html,css,and Flask for the backend.
 
-### Technology : 
-
-* Python
-
-### Engineer(s) :
-
-* <i>Medi Assumani : Sole Engineer</i>
+Link to Repo : <a href = "https://github.com/MediBoss/SIBS" >SIBS</a> 
+Link to Live Product : 
 
 
-## 3. <a href = "https://github.com/yveslym/remindMe" >🕑RemindMe</a> 
+## 2. <a href = "https://github.com/yveslym/remindMe" >🕑RemindMe</a> 
 
 ### Overview
 
 Simple, Lightweight, and easy-to-use iOS location-based reminder app that uses apple's geofencing and CoreLocation Api to send the user local notifications of reminders based on their locations.
 
-### Technology : 
-* Swift 4.2 
-* Xcode
-* FSB SDK
-* Google SDK
-* Cocoa Pods
-
-### Engineer(s) :
-
-* <i>Medi Assumani : Lead Engineer</i>
-* <i>Yves Songolo : iOS Engineer</i>
+Link to Repo : <a href = "https://github.com/yveslym/remindMe" >Remindme</a> 
+Link to Live Product : 
 
 
-## 4. <a href = "https://github.com/MediBoss/Lofti" >🕑Lofti</a> 
+## 3. 🕑Lofti
 
 ### Overview
 
+Lofti is an ios application that can seamlessly find study and working spaces nearby based on the user's preferences. It is carefully developed and targeted for college students, high schools students, professional workers, and individual who like to work or study out of their office/home.
 
-Lofti is an ios application that can seamlessly find study and working spaces nearby based on the user's preferences.
-
-### Technology : 
-
-* Swift
-* Yelp Fusion API
-* FireBase
-* Apple's CoreLocation
-
-### Engineer(s) :
-
-* <i>Medi Assumani : Sole iOS Developer</i>
+Link to Repo : <a href = "https://github.com/MediBoss/Lofti" >Remindme</a> 
+Link to Live Product : 
 
 
-## 5. <a href = "https://github.com/MediBoss/Charitable" >✅Charitable</a> 
+## 4. ✅Charitable
 
 ### Overview
 
 Powered by the News RESTFul API, Charitable is an online platform for Humanitarians, charities, and citizens to find a source of events throughout the world that needs donations.
 
+Link to Repo : <a href = "https://github.com/MediBoss/Charitable" >Remindme</a> 
+Link to Live Product : <a href = "https://github.com/MediBoss/Charitable" >Charitable</a> 
 
-### Technology : 
+## 5. ✅Escrapper
 
-* Front End : Javascript, CSS, & Handlebars
-* Backend : Node.js, Express.js
-* Database : MongoDB
-* Testing : Mocha & Chai
-* External API : <a href = "https://newsapi.org/" >News API</a> 
+### Overview
 
-### Engineer(s) :
+Escrapper is  lightweight, simple, and easy-to-use web scrapper package tool built in Python.
 
-* <i>Medi Assumani : Full Stack Developer</i>
+Link to Repo : <a href = "https://github.com/MediBoss/Escrapper" >Remindme</a> 
+Link to Live Product : <a href = "https://test.pypi.org/project/Escrapper/" >Charitable</a> 
+
