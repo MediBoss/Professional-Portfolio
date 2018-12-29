@@ -50,7 +50,7 @@ Lofti is an ios application that can seamlessly find study and working spaces ne
 
 Powered by the News RESTFul API, Charitable is an online platform for Humanitarians, charities, and citizens to find a source of events throughout the world that needs donations.
 
-* Link to Repo : <a href = "https://github.com/MediBoss/Charitable" >Remindme</a> 
+* Link to Repo : <a href = "https://github.com/MediBoss/Charitable" >Charitable</a> 
 * Link to Live Product : <a href = "https://github.com/MediBoss/Charitable" >Charitable</a> 
 
 ## 5. ✅Escrapper
@@ -59,6 +59,6 @@ Powered by the News RESTFul API, Charitable is an online platform for Humanitari
 
 Escrapper is  lightweight, simple, and easy-to-use web scrapper package tool built in Python.
 
-* Link to Repo : <a href = "https://github.com/MediBoss/Escrapper" >Remindme</a> 
-* Link to Live Product : <a href = "https://test.pypi.org/project/Escrapper/" >Charitable</a> 
+* Link to Repo : <a href = "https://github.com/MediBoss/Escrapper" >Escrapper</a> 
+* Link to Live Product : <a href = "https://test.pypi.org/project/Escrapper/" >Escrapper on PYP</a> 
 
