@@ -34,7 +34,7 @@ Simple, Lightweight, and easy-to-use iOS location-based reminder app that uses a
 * Link to Live Product : 
 
 
-## 3. 🕑Lofti
+## 3. <a href = "https://github.com/MediBoss/Lofti" >🕑Lofti</a>
 
 ### Overview
 
