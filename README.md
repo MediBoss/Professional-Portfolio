@@ -33,7 +33,6 @@ Simple, Lightweight, and easy-to-use iOS location-based reminder app that uses a
 * Link to Repo : <a href = "https://github.com/yveslym/remindMe" >Remindme</a> 
 * Link to Live Product : 
 
-
 ## 3. <a href = "https://github.com/MediBoss/Lofti" >🕑Lofti</a>
 
 ### Overview
