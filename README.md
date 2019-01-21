@@ -24,16 +24,7 @@ Lofti is an ios application that can seamlessly find study and working spaces ne
 * Link to Repo : <a href = "https://github.com/MediBoss/Lofti" >Lofti</a> 
 * Link to Live Product : <a href="https://itunes.apple.com/us/app/lofti-study-space-finder/id1446711696?mt=8">Lofti in AppStore</a>
 
-## 2. <a href = "https://github.com/MediBoss/Charitable" >✅Charitable</a>
-
-### Overview
-
-Powered by the News RESTFul API, Charitable is an online platform for Humanitarians, charities, and citizens to find a source of events throughout the world that needs donations.
-
-* Link to Repo : <a href = "https://github.com/MediBoss/Charitable" >Charitable</a> 
-* Link to Live Product : <a href = "https://github.com/MediBoss/Charitable" >Charitable</a> 
-
-## 3. <a href = "https://github.com/MediBoss/Escrapper" >✅Escrapper</a> 
+## 2. <a href = "https://github.com/MediBoss/Escrapper" >✅Escrapper</a> 
 
 ### Overview
 
@@ -42,7 +33,7 @@ Escrapper is  lightweight, simple, and easy-to-use web scrapper package tool bui
 * Link to Repo : <a href = "https://github.com/MediBoss/Escrapper" >Escrapper</a> 
 * Link to Live Product : <a href = "https://test.pypi.org/project/Escrapper/" >Escrapper on PYP</a> 
 
-## 4.<a href = "https://github.com/MediBoss/GitviwrClient" >🕑Gitviwr</a> 
+## 3.<a href = "https://github.com/MediBoss/GitviwrClient" >🕑Gitviwr</a> 
 
 ### Overview
 
@@ -52,6 +43,15 @@ Gitviwr is a lightwight chrome extension that notifies the user when their githu
 * Link to Server Repo : <a href = "https://github.com/MediBoss/GitviewrServer" >Gitviwr's Server</a> 
 * Link to Live Product :  
 
+## 4. <a href = "https://github.com/MakeSchool-Companion-App/Companion-iOS" >🕑Companion</a> 
+
+### Overview
+
+Companion is designed to track student attendance using Bluetooth Low Energy beacons.
+
+* Link to iOS Repo : <a href = "https://github.com/MakeSchool-Companion-App/Companion-iOS" >Companion iOS</a> 
+* Link to Organization Repo : <a href = "https://github.com/MakeSchool-Companion-App" >Companion</a> 
+
 ## 5. <a href = "https://github.com/yveslym/remindMe" >🕑RemindMe</a> 
 
 ### Overview
@@ -59,16 +59,6 @@ Gitviwr is a lightwight chrome extension that notifies the user when their githu
 Simple, Lightweight, and easy-to-use iOS location-based reminder app that uses apple's geofencing and CoreLocation Api to send the user local notifications of reminders based on their locations.
 
 * Link to Repo : <a href = "https://github.com/yveslym/remindMe" >Remindme</a> 
-* Link to Live Product : 
-
-
-
-## 6.🚩SIBS 
-
-### Overview
-Super Intelligent Book Summarizer, or SIBS, is a web application (or terminal/command-line application)that concisely and accuratly summarizes the user's book or article at any given length.I am currenlty building it to run on the Terminal with local files but then will build it as a web app with html,css,and Flask for the backend.
-
-* Link to Repo : <a href = "https://github.com/MediBoss/SIBS" >SIBS</a> 
 * Link to Live Product : 
 
 
