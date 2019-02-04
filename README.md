@@ -52,13 +52,13 @@ Companion is designed to track student attendance using Bluetooth Low Energy bea
 * Link to iOS Repo : <a href = "https://github.com/MakeSchool-Companion-App/Companion-iOS" >Companion iOS</a> 
 * Link to Organization Repo : <a href = "https://github.com/MakeSchool-Companion-App" >Companion</a> 
 
-## 5. <a href = "https://github.com/yveslym/remindMe" >🕑RemindMe</a> 
+## 5. <a href = "https://github.com/yveslym/remindMe" >🕑Geominder</a> 
 
 ### Overview
 
 Simple, Lightweight, and easy-to-use iOS location-based reminder app that uses apple's geofencing and CoreLocation Api to send the user local notifications of reminders based on their locations.
 
-* Link to Repo : <a href = "https://github.com/yveslym/remindMe" >Remindme</a> 
-* Link to Live Product : 
+* Link to Repo : <a href = "https://github.com/yveslym/remindMe" >Geominder</a> 
+* Link to TestFlight : <a href="https://testflight.apple.com/join/do291tga">Geominder<>
 
 
