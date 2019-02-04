@@ -59,6 +59,6 @@ Companion is designed to track student attendance using Bluetooth Low Energy bea
 Simple, Lightweight, and easy-to-use iOS location-based reminder app that uses apple's geofencing and CoreLocation Api to send the user local notifications of reminders based on their locations.
 
 * Link to Repo : <a href = "https://github.com/yveslym/remindMe" >Geominder</a> 
-* Link to TestFlight : <a href="https://testflight.apple.com/join/do291tga">Geominder<>
+* Link to TestFlight : <a href="https://testflight.apple.com/join/do291tga">Geominder</a>
 
 
