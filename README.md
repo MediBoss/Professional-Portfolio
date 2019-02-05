@@ -37,7 +37,7 @@ Escrapper is  lightweight, simple, and easy-to-use web scrapper package tool bui
 
 ### Overview
 
-Gitviwr is a lightwight chrome extension that notifies the user when their github profile has been viewed(LinkedIn style).
+Gitviwr is a lightwight, secure, and real time chrome extension that notifies the user when their github profile has been viewed(LinkedIn style).
 
 * Link to Client Repo : <a href = "https://github.com/MediBoss/GitviwrClient" >Gitviwr's Client</a> 
 * Link to Server Repo : <a href = "https://github.com/MediBoss/GitviewrServer" >Gitviwr's Server</a> 
